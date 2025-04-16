@@ -1,0 +1,27 @@
+{
+  "name": "using-sql-as-a-database---practice-assignment-2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mannat-07/Using-SQL-as-a-database---Practice-assignment-2#readme",
+  "bugs": {
+    "url": "https://github.com/mannat-07/Using-SQL-as-a-database---Practice-assignment-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannat-07/Using-SQL-as-a-database---Practice-assignment-2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "nodemon": "^3.1.9"
+  }
+}
